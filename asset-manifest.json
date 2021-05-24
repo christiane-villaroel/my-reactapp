@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/my-reactapp/static/css/main.667662f6.chunk.css",
+    "main.js": "/my-reactapp/static/js/main.06916e2b.chunk.js",
+    "main.js.map": "/my-reactapp/static/js/main.06916e2b.chunk.js.map",
+    "runtime-main.js": "/my-reactapp/static/js/runtime-main.bbaacca4.js",
+    "runtime-main.js.map": "/my-reactapp/static/js/runtime-main.bbaacca4.js.map",
+    "static/js/2.5e219b1e.chunk.js": "/my-reactapp/static/js/2.5e219b1e.chunk.js",
+    "static/js/2.5e219b1e.chunk.js.map": "/my-reactapp/static/js/2.5e219b1e.chunk.js.map",
+    "static/js/3.8c151561.chunk.js": "/my-reactapp/static/js/3.8c151561.chunk.js",
+    "static/js/3.8c151561.chunk.js.map": "/my-reactapp/static/js/3.8c151561.chunk.js.map",
+    "index.html": "/my-reactapp/index.html",
+    "static/css/main.667662f6.chunk.css.map": "/my-reactapp/static/css/main.667662f6.chunk.css.map",
+    "static/js/2.5e219b1e.chunk.js.LICENSE.txt": "/my-reactapp/static/js/2.5e219b1e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/my-reactapp/static/media/bg-intro-desktop.059183ee.png",
+    "static/media/bg-intro-mobile.02ce3982.png": "/my-reactapp/static/media/bg-intro-mobile.02ce3982.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbaacca4.js",
+    "static/js/2.5e219b1e.chunk.js",
+    "static/css/main.667662f6.chunk.css",
+    "static/js/main.06916e2b.chunk.js"
+  ]
+}
